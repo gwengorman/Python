@@ -1,2 +1,2 @@
 # Codecademy
-Projects completed during the Codecademy Data Science: Machine Learning course. 
+Projects completed during the Codecademy Data Science: Machine Learning course. Jyupter Notebook platform is used for Python language.
